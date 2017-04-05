@@ -1,6 +1,6 @@
 {
   "name": "mobi-plugin-show-hide-on-mobile",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "Show element on mobile or hide element on mobile.",
   "main": "index.scss",
   "scripts": {
